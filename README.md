@@ -1,4 +1,4 @@
-![logo](https://github.com/vinaykumar3570/vinaykumar3570/blob/main/smile.gif)
+<!--![logo](https://github.com/vinaykumar3570/vinaykumar3570/blob/main/smile.gif) -->
 <h1 align="center">Hi 👋, I'm Vinay kumar</h1>
 <h3 align="center">Frontend Developer from India</h3>
 
