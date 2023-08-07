@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **our projects**
 
-- 🌱 I’m currently learning **JavaScript and SASS**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **Front End Development**
 
