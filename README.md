@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vinay2192000@gamil.com**
 
-- ⚡ Fun fact **depend on my moood**
+- ⚡ Fun fact **depend on my mood**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
