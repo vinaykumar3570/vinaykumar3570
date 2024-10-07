@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **our projects**
 
-- 🌱 I’m currently learning **Reach JS**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Front End Development**
 
