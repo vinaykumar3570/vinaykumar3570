@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Front End Development**
 
-- 📫 How to reach me **vinay2192000@gamil.com**
+- 📫 How to reach me **vinay2192000@gmail.com**
 
 - ⚡ Fun fact **depend on my mood**
 
